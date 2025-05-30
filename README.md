@@ -1,7 +1,4 @@
 # SEO_Generator
-Certainly! Here’s a professional, detailed **README.md** for your project:
-
----
 
 # ✨ SEO Product Description Generator
 
