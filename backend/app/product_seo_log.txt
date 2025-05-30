@@ -1,0 +1,14 @@
+
+============================================================
+Timestamp: 2025-05-30 21:04:46.576140
+INPUT:
+  handle: womens-hosiery-short-sleeves-round-neck-non-padded-blouse-maroon-pid57127
+  title: Generic Pack Of_2 Women's Hosiery Short Sleeves Round Neck Non-Padded Blouse (Maroon)
+  body: Women's Pack Of_2 Hosiery Printed Short Sleeves Round Neck Non-Padded Blouse<br><br>â€¢Â Color: Maroon, <br>â€¢Â Material: Hosiery<br>â€¢Â Pattern: Printed, <br>â€¢Â Neck Type: Round Neck, <br>â€¢Â Length Type: Crop Blouse<br>â€¢Â Sleeve Type: Short Sleeves, <br>â€¢Â Closure type: Slip-on, <br>â€¢Â Padding Type: Non-Padded<br><br>â€¢Â Disclaimer: The color of actual product may vary slightly from the images provided due to photographic lighting conditions and difference in screen resolutions.
+
+  brand_tone: 
+OUTPUT:
+  Optimized Title: Women's Maroon Crop Top - 2 Pack
+  Optimized Body: This pack of two women's maroon crop tops is perfect for layering or wearing on its own. Made from soft hosiery material, these short-sleeve tops feature a round neck and a comfortable, non-padded design.  Ideal for summer outfits or as a base layer for your favorite dresses and white pieces.  The printed design adds a touch of style.  Slip them on easily with the simple slip-on closure. Note: Colors may vary slightly.
+  Keywords Used: crop top, women's, summer outfits, dresses and white, maroon
+============================================================
